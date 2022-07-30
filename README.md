@@ -1,10 +1,9 @@
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="logo jest" width="80px" align="right">
 
-# Star Wars Planet Search
+# Project MySQL One For All
 > Status do Projeto: concluído :heavy_check_mark: :warning:
 
-Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe.com/). Neste projeto foi utilizado Context API e Hooks para desenvolver uma lista com filtros de planetas do universo de Star Wars.
-
+Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe.com/). Projeto com o objetivo de normalizar, criar e realizar queries em um banco de dados
 ## 🔧 Funcionalidades
   * Criar um banco de dados normalizado;
   * Aplicabilidade de JOINS para realizar queries.
@@ -23,6 +22,6 @@ Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe
 
 <hr/>
 
-<div align="center">Copyright :copyright: Trybe 2022 - Project MySql Planet Search
+<div align="center">Copyright :copyright: Trybe 2022 - Project MySql One For All
 <br/>
 Realizado de acordo com as diretrizes do <a href="https://blog.betrybe.com/wp-content/uploads/2020/12/Código-de-Conduta-Trybe-1.pdf" >Código de Conduta e do Manual da Pessoa Estudante da Trybe</a>.</div>
