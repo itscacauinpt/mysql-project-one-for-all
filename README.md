@@ -3,7 +3,7 @@
 
 Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe.com/). Neste projeto foi utilizado Context API e Hooks para desenvolver uma lista com filtros de planetas do universo de Star Wars.
 
-## :chart_with_upwards_trend: Funcionalidades
+## 🔧 Funcionalidades
   * Criar um banco de dados normalizado;
   * Aplicabilidade de JOINS para realizar queries.
 
@@ -12,8 +12,12 @@ Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe
   * Aplicar a 1ª regra de normalização
   * Aplicar a 2ª regra de normalização
   * Aplicar a 3ª regra de normalização
+
+## :chart_with_downwards_trend: Tabela Não-Normalizada
+
+## :chart_with_upwards_trend: Schema DB
   
-  <hr/>
+<hr/>
 
 <div align="center">Copyright :copyright: Trybe 2022 - Project MySql Planet Search
 <br/>
