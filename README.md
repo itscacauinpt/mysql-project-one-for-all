@@ -1,3 +1,5 @@
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="logo jest" width="80px" align="right">
+
 # Star Wars Planet Search
 > Status do Projeto: concluído :heavy_check_mark: :warning:
 
@@ -14,9 +16,11 @@ Projeto feito de forma individual durante o curso da [Trybe](https://www.betrybe
   * Aplicar a 3ª regra de normalização
 
 ## :chart_with_downwards_trend: Tabela Não-Normalizada
+<img src="https://github.com/itscacauinpt/mysql-project-one-for-all/blob/main/non-normalized-tables.png">
 
 ## :chart_with_upwards_trend: Schema DB
-  
+<img src="https://github.com/itscacauinpt/mysql-project-one-for-all/blob/main/sql-schema-normalized.png">
+
 <hr/>
 
 <div align="center">Copyright :copyright: Trybe 2022 - Project MySql Planet Search
